@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_fullstack_app/practice_view_2/home_page.dart';
 import 'package:flutter_fullstack_app/view.dart';
 
 void main() {
